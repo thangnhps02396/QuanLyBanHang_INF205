@@ -95,6 +95,12 @@
     <Compile Include="frmQLSanPham.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmQuanLyNganSach.Designer.vb">
+      <DependentUpon>frmQuanLyNganSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuanLyNganSach.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -126,6 +132,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmQLSanPham.resx">
       <DependentUpon>frmQLSanPham.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuanLyNganSach.resx">
+      <DependentUpon>frmQuanLyNganSach.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

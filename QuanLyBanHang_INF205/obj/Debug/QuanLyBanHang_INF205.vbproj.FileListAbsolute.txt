@@ -15,3 +15,7 @@ C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanL
 C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.frmMain.resources
 C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.frmQLNhanVien.resources
 C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.frmQLSanPham.resources
+E:\QuanLyBanHang_INF205\QuanLyBanHang_INF205\bin\Debug\QuanLyBanHang_INF205.exe.config
+E:\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.exe
+E:\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.xml
+E:\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.pdb
