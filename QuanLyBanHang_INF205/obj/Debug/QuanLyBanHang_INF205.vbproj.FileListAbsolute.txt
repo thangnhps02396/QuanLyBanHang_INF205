@@ -1,0 +1,17 @@
+C:\Users\Nguyen\AppData\Local\Temporary Projects\QuanLyBanHang_INF205\bin\Debug\QuanLyBanHang_INF205.exe.config
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\bin\Debug\QuanLyBanHang_INF205.exe.config
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\bin\Debug\QuanLyBanHang_INF205.exe
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\bin\Debug\QuanLyBanHang_INF205.pdb
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\bin\Debug\QuanLyBanHang_INF205.xml
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\bin\Debug\vi\QuanLyBanHang_INF205.resources.dll
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.frmDangNhap.resources
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.Resources.resources
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.frmDangNhap.vi.resources
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.vbproj.GenerateResource.Cache
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\vi\QuanLyBanHang_INF205.resources.dll
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.exe
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.xml
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.pdb
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.frmMain.resources
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.frmQLNhanVien.resources
+C:\Users\Nguyen\Documents\Visual Studio 2013\Projects\QuanLyBanHang_INF205\QuanLyBanHang_INF205\obj\Debug\QuanLyBanHang_INF205.frmQLSanPham.resources
